@@ -1,1 +1,1 @@
-# Bikash-JavaScipt-2.0
+# Bikash-JavaScript-2.0
